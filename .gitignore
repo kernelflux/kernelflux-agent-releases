@@ -1,0 +1,5 @@
+# Public distribution repository: deny everything except approved information files.
+/*
+!/.gitignore
+!/README.md
+# Release assets are uploaded by the verified publishing pipeline, never git add.
